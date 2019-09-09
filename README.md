@@ -1,5 +1,8 @@
 # Maps
 
+## Wardley Mapping Template by Arvind
+[![InfoSec](/img/mapping.png)](https://www.figma.com/file/Oa9DvuPdSpqiqw2a6qyRj9/Arvind-s-Wardley-Mapping-Template?node-id=0%3A1)
+
 #### InfoSec
 [![InfoSec](/img/infosec-one.jpeg)](https://twitter.com/madplatt/status/1164272601373597697)
 
