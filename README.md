@@ -3,6 +3,9 @@
 ### Wardley Mapping Template by Arvind
 <a href="https://www.figma.com/file/Oa9DvuPdSpqiqw2a6qyRj9/Arvind-s-Wardley-Mapping-Template?node-id=0%3A1"><div style="text-align:center"><img src ="img/mapping.png"/></div>
 
+#### Hiring
+<a href="https://threadreaderapp.com/thread/1171783735785807874.html"><div style="text-align:center"><img src ="img/hiring.jpeg"/></div>
+
 #### InfoSec
 <a href="https://twitter.com/madplatt/status/1164272601373597697"><div style="text-align:center"><img src ="img/infosec-one.jpeg"/></div>
 
